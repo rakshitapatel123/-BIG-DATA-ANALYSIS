@@ -94,3 +94,9 @@ Total Amount: $10.44
 
 This project demonstrates how Python libraries (Pandas + Matplotlib) can be used to analyze big datasets and create meaningful visualizations.
 It is a foundational step towards Big Data Analytics using scalable tools like PySpark and Dask.
+
+# OUTPUT
+<img width="704" height="470" alt="Image" src="https://github.com/user-attachments/assets/c778c3dc-0ead-42c8-8f71-c45b35b0e4e5" />
+<img width="713" height="465" alt="Image" src="https://github.com/user-attachments/assets/8b41a7a4-ebd5-4430-8835-ff05b97f29bf" />
+<img width="521" height="504" alt="Image" src="https://github.com/user-attachments/assets/283589b2-9b51-462f-9518-ebb2baf65ec7" />
+<img width="700" height="470" alt="Image" src="https://github.com/user-attachments/assets/a96559ce-9c92-474a-8d7e-20a2629d399e" />
