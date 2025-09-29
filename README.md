@@ -14,7 +14,7 @@
 
 
 
-🚖 Big Data Taxi Trip Analysis
+# 🚖 Big Data Taxi Trip Analysis
 
 This project analyzes a NYC-style taxi trip dataset (bigdata_sample.csv) using Pandas and Matplotlib.
 The goal is to extract insights and create visualizations for better understanding of big data.
